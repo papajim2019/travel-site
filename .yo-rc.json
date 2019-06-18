@@ -1,0 +1,11 @@
+{
+  "travel-site": {
+    "configuration": {
+      "config": {
+        "webpackOptions": {
+          "entry": null
+        }
+      }
+    }
+  }
+}
